@@ -151,7 +151,6 @@
                   '<(libchromiumcontent_dir)/libfx_agg.a',
                   '<(libchromiumcontent_dir)/libfx_lcms2.a',
                   '<(libchromiumcontent_dir)/libfx_libopenjpeg.a',
-                  '<(libchromiumcontent_dir)/libfx_zlib.a',
                   '-Wl,--no-whole-archive',
                 ],
               },
